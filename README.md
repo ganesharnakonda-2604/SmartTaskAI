@@ -158,6 +158,17 @@ From the `backend` directory:
 
 The tests use a separate `smarttaskai_test_db` database. Configure the database credentials before running them.
 
+## Screenshots
+
+### Task Dashboard
+![Task Dashboard](screenshots/task-dashboard.png)
+
+### AI Task Planner
+![AI Task Planner](screenshots/ai-task-planner.png)
+
+### Subtask Progress
+![Subtask Progress](screenshots/subtask-progress.png)
+
 ## Learning Goals
 
 This project provides practice with:
